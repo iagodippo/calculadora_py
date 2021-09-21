@@ -7,7 +7,7 @@ sinal4 = "/"
 while x == "1":
     numero1 = int(input("primeiro número: "))
     numero2 = int(input("segundo número: "))
-    sinal = input("sinal da operação: "
+    sinal = input("sinal da operação: ")
 
     if sinal == sinal1:
         soma = numero1 + numero2
